@@ -2,6 +2,9 @@ const primary = 'blue';
 const gray = 'cool';
 
 export default defineAppConfig({
+  myThing: {
+    something: 'a string value',
+  },
   ui: {
     primary,
     gray,
