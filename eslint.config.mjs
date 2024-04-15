@@ -1,5 +1,5 @@
 // @ts-check
-import withNuxt from './.nuxt/eslint.config.mjs';
+import withNuxt from './web/client/.nuxt/eslint.config.mjs';
 
 export default withNuxt({
   files: [
