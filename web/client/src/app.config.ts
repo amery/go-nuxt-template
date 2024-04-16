@@ -1,5 +1,5 @@
 const primary = 'blue';
-const gray = 'cool';
+const gray = 'neutral';
 
 export default defineAppConfig({
   myThing: {
