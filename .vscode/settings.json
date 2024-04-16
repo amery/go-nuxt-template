@@ -1,5 +1,12 @@
 {
 	"cSpell.words": [
 		"nuxt"
-	]
+	],
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "always",
+		"source.fixAll.eslint": "always",
+	},
+	"eslint.enable": true,
+	"eslint.experimental.useFlatConfig": true,
+	"eslint.format.enable": true,
 }
